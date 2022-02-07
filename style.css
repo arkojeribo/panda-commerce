@@ -43,3 +43,34 @@
 .categories img{
     width: 100px;
 }
+
+/* Shoes Cart  */
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+/* Bagpack cart  */
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+/* Subscribe Cart */
+
+#subscribe{
+    height: 300px;
+    text-align: center;
+}
+#subscribe h6{
+    color: gray;
+}
+
+/* footer  */
+
+footer{
+    text-align: center;
+}
